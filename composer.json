@@ -1,5 +1,5 @@
 {
-    "name": "jkobus/posnet-thermal",
+    "name": "moovspot/posnet-thermal",
     "description": "Communication library in PHP written for fiscal printers using POSNET THERMAL protocol",
     "license": "BSD-3-Clause",
     "authors": [
